@@ -5,3 +5,8 @@ set autoindent          " auto indenting
 set number              " line numbers
 colorscheme desert      " colorscheme desert
 set nobackup            " get rid of anoying ~file
+
+set expandtab
+set smarttab
+set shiftwidth=2
+set tabstop=2
