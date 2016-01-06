@@ -5,4 +5,6 @@ alias gd="git diff"
 alias ga="git add"
 alias gp="git push"
 
-alias ..="cd ../"
+alias ..='cd ..'
+
+alias edit='vim'
